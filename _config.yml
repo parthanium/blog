@@ -17,10 +17,10 @@ title: Parth Dhar
 email: parth.cs117@cse.iitd.ac.in
 description: >- # this means to ignore newlines until "baseurl:"
   A simple personal blog.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://parthanium.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: dharparth
+github_username:  parthanium
 
 # Build settings
 markdown: kramdown
