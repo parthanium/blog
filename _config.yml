@@ -1,6 +1,7 @@
 title:            Makephile
 tagline:          Love to build.
 description:      42.
+baseurl:          /blog
 canonical: http://parthanium.github.io/blog
 
 # Owner/author information
